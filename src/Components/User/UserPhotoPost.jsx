@@ -52,7 +52,6 @@ const UserPhotoPost = () => {
         <Button>Enviar</Button>
       )}
       <Error error={error}/>
-      
     </form>
 
     <div>
